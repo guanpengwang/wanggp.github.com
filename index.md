@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Home Page
+## Guanpeng Wang
+### Statistics Research
 
-You can use the [editor on GitHub](https://github.com/guanpengwang/wanggp.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+(1) Lin Xia, Xudong Huang, Guanpeng Wang  and Tao Wu“Positive-Definite Sparse Precision Matrix  Estimation”,
+   Advances in Pure Mathematics, 2017, 7, 21-30.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(2)  王冠鹏， 黄旭东.  高维稀疏精度矩阵的有效分布式估计. 系统科学与数学, 2017, 37（11), ２271－２280.
 
-### Markdown
+(3) Huang Xudong, Wang Guanpeng and Li Mengmeng
+   Adjusting for high-dimensional covariates in sparse precision matrix estimation by lasso penalized D-trace loss.
+  Chinese Journal of Applied Probability and Statistics（English series), 2019,35(5), 441-452.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(4) 王冠鹏，田万，胡涛.   基于ADMM正则化轨道算法的高维稀疏精度矩阵估计. 系统科学与数学，2020.7.16, accepted.
+———————————————————————————————————————————————————
+(5)  田万， 王冠鹏， 胡涛.    基于深度学习的时间序列分类， 数学的实践与认识（审稿中）。
 
-```markdown
-Syntax highlighted code block
+(6) Wang Guangpeng and Cui Hengjian. 
+   Efficient Distributed Estimation of High-dimensional Sparse Precision Matrix for Transelliptical Graphical Models  
+  submitted to "Acta Mathematica Sinica, English Series",2019,12(submitted), 2020.5( revised二审).
 
-# Header 1
-## Header 2
-### Header 3
+(7) Huang Xudong, Bao Nana, Xu Kai and Wang Guanpeng
+Variable selection in high-dimensional error-in-variable models via controlling the false discovery proportion
+"Communications in Mathematics and Statistics" 2020,9.21（revised二审）
+___________________________________________________________________________________________________________________
 
-- Bulleted
-- List
+(8) Wang Guangpeng and Cui Hengjian.
+    Dirtributed refitted cross validation for high-dimensional precision matrix estimation. incompleted 2020，9.
 
-1. Numbered
-2. List
+(9) Tian Wan， Wang Guanpeng， Cui Hengjian.  基于稳健马氏距离的图像识别。修改。
+__________________________________________________________________________________________________________________________
+(10)XIA Lin, WANG  Guanpeng and   HUANG Xudong. 
+An accelerated gradient method for positive-definite high-dimensional covariance matrices estimation learning
+submitted to "Chinese Journal of Applied Probability and Statistics（English series),"2020.4.18（修改）
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guanpengwang/wanggp.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+______________________________________________________________________________________________________________________
+获奖以及荣誉
+（1）2019年荣获校级“优秀硕士毕业论文”。
+（2）2019 年荣获“北京应用统计学会&北京大数据协会学术研讨会优秀论文奖”。
+________________________________________________________________________________________________________________________________
